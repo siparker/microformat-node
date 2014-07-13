@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "request": "2.33.x",
-    "cheerio": "0.12.4",
+    "cheerio": "0.17.0",
     "entities": "0.x",
     "when": "2.7.x"
   },
